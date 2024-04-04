@@ -4,4 +4,7 @@ test de création de dépot github
 [git](https://git-scm.com/) pour la doc git
 - nouveau morceau de code
 - code qui vient du pc
-- le code 
+- le code
+
+- ### Tester des changements
+- Pour le travail de groupe
